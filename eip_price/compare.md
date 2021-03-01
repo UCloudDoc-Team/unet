@@ -4,10 +4,10 @@
 
 计费方式|	计费规则|	收取费用|
 |---|---|---|
-带宽|	按照固定带宽收费。|带宽费用|
-流量|	按照出向带宽所消耗的流量进行计费，每日0点结算。|流量费用+IP费用|
-带宽后付费|	按照保底+后付费收费，不足保底收取保底带宽费用，超过保底部分按照超过部分的带宽平均值收费。|带宽费用|
-共享带宽|	多IP共享一条带宽，分别收取带宽费用和IP费用。|共享带宽费用+IP费用|
+带宽|	按照固定带宽收费。[详情](https://cms-docs.ucloudadmin.com/unet/eip/introduction?id=%e6%a0%87%e5%87%86%e5%b8%a6%e5%ae%bd)|带宽费用|
+流量|	按照出向带宽所消耗的流量进行计费，每日0点结算。[详情](https://cms-docs.ucloudadmin.com/unet/eip/introduction?id=%e6%b5%81%e9%87%8f%e8%ae%a1%e8%b4%b9)|流量费用+IP费用|
+带宽后付费|	按照保底+后付费收费，不足保底收取保底带宽费用，超过保底部分按照超过部分的带宽平均值收费。[详情](https://cms-docs.ucloudadmin.com/unet/eip/introduction?id=%e5%b8%a6%e5%ae%bd%e5%90%8e%e4%bb%98%e8%b4%b9)|带宽费用|
+共享带宽|	多IP共享一条带宽，分别收取带宽费用和IP费用。[详情](https://cms-docs.ucloudadmin.com/unet/eip/introduction?id=%e5%85%b1%e4%ba%ab%e5%b8%a6%e5%ae%bd)|共享带宽费用+IP费用|
 
 ### 说明：
 1、所购买带宽值
