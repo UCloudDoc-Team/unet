@@ -17,6 +17,7 @@
      * [原理架构](/unet/ipv6translation/structure)
      * [操作指南](/unet/ipv6translation/guide)
 * 产品价格
+     * [EIP计费总览](/unet/eip_price/compare)
      * [流量价格](/unet/eip_price/traffic)
      * [带宽价格](/unet/eip_price/bandwidth)
      * [带宽后付费价格](/unet/eip_price/accuratebandwidth)
