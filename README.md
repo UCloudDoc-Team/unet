@@ -25,8 +25,8 @@
      * [IP地址价格](/unet/eip_price/ipaddress)
      * [带宽包价格](/unet/eip_price/bandwidthpackage)
      * [IPv6转换价格](/unet/eip_price/ipv6translation)   
-* [计费说明](https://docs.ucloud.cn/charge/README)
-* [资源过期回收](https://docs.ucloud.cn/charge/recycle)
+* [计费说明](/charge/README)
+* [资源过期回收](/charge/recycle)
 * [故障排查](/unet/troubleshooting)
 * FAQ
      * [带宽相关](/unet/faq/bandwidth)
