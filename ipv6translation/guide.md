@@ -5,7 +5,8 @@
 可开启IPv6转换功能的页面有外网弹性IP管理页面、详情页以及云主机管理页面-网络详情页。开启IPv6转换功能后，会为当前的EIP分配一个IPv6地址。
 
 外网弹性IP管理页面，开启IPv6转换功能。
-![](/images/briefguide/开启ipv6转换.png)
+
+![](/images/开启ipv6转换.png)
 
 外网弹性IP详情页面，开启IPv6转换功能。 ![](/images/详情开启ipv6转换.png)
 
