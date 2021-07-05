@@ -10,7 +10,7 @@
 | 带宽后付费 |	按照保底+后付费收费，预先收取保底带宽费用，后付费按超过保底部分带宽的平均值收费。 | 带宽费用 |
 | 共享带宽 |	多IP共享带宽，分别收取带宽费用和IP费用。 |  共享带宽费用+IP费用  |
 
-详细计费描述见[外网弹性IP](https://cms-docs.ucloudadmin.com/unet/eip/introduction)。
+详细计费描述见[外网弹性IP](https://docs.ucloud.cn/unet/eip/introduction)。
 
 ### 说明：
 1、所购买带宽值
