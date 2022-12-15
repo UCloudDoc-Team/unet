@@ -1,19 +1,39 @@
-* [概览](/uhost/README)
-* 产品简介
-    * [什么是云主机](/uhost/introduction/concept)
-    * [产品优势](/uhost/introduction/advantages)
-    * [功能简介](/uhost/introduction/functions)
-    * 主机
-        * [地域与可用区](/uhost/introduction/uhost/az)
-        * [机型与CPU平台](/uhost/introduction/uhost/type_new)
-        * [机型选择](/uhost/introduction/uhost/select_type)
-        * [特性](/uhost/introduction/uhost/feature)
-        * [订单构成](/uhost/introduction/uhost/lifecycle)
-        * [配额](/uhost/introduction/uhost/quota)
-    * [磁盘](/uhost/introduction/disk)
-    * [镜像](/uhost/introduction/image)
-    * 网络
-        * [内网](/uhost/introduction/network/vpc.md)
-        * [弹性外网IP](/uhost/introduction/network/eip.md)
-        * [域名加速](/uhost/introduction/network/domainacceleration.md)
-    * [监控](/uhost/introduction/monitor)
+- [概览](/unet/README)
+
+- 外网弹性 IP
+  - [产品简介](/unet/eip/introduction)
+  - [操作指南](/unet/eip/guide)
+- 共享带宽
+  - [产品简介](/unet/share_bandwidth/introduction)
+  - [操作指南](/unet/share_bandwidth/guide)
+- 带宽包
+  - [产品简介](/unet/bandwidth_package/introduction)
+  - [操作指南](/unet/bandwidth_package/guide)
+- 防火墙
+  - [产品简介](/unet/firewall/introduction)
+  - [操作指南](/unet/firewall/guide)
+- IPv6 转换功能
+  - [产品简介](/unet/ipv6translation/introduction)
+  - [原理架构](/unet/ipv6translation/structure)
+  - [操作指南](/unet/ipv6translation/guide)
+- 产品价格
+  - [EIP 计费总览](/unet/eip_price/compare)
+  - [流量价格](/unet/eip_price/traffic)
+  - [带宽价格](/unet/eip_price/bandwidth)
+  - [带宽后付费价格](/unet/eip_price/accuratebandwidth)
+  - [共享带宽价格](/unet/eip_price/sharebandwidth)
+  - [IP 地址价格](/unet/eip_price/ipaddress)
+  - [带宽包价格](/unet/eip_price/bandwidthpackage)
+  - [IPv6 转换价格](/unet/eip_price/ipv6translation)
+  - [精品 BGP 价格](/unet/eip_price/bgppro)
+
+- [计费说明](https://docs.ucloud.cn/charge/README)
+- [资源过期回收](https://docs.ucloud.cn/charge/recycle)
+- [故障排查](/unet/troubleshooting)
+- FAQ
+  - [带宽相关](/unet/faq/bandwidth)
+  - [外网访问与隔离](/unet/faq/access)
+  - [防火墙](/unet/faq/firewall)
+  - [EIP 使用相关](/unet/faq/eip)
+  - [IPv6 转换功能](/unet/faq/ipv6translation)
+  - [其他](/unet/faq/other)
