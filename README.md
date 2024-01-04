@@ -29,7 +29,7 @@
      * [精品BGP价格](/unet/eip_price/bgppro)
 * 购买指南
      * [计费说明](/charge/README)
-     * [资源过期回收](/charge/recycle)
+     * [资源过期回收](/unet/eip_recycle/introduction)
 * [故障排查](/unet/troubleshooting)
 * FAQ
      * [带宽相关](/unet/faq/bandwidth)
