@@ -27,9 +27,9 @@
      * [带宽包价格](/unet/eip_price/bandwidthpackage)
      * [IPv6转换价格](/unet/eip_price/ipv6translation)  
      * [精品BGP价格](/unet/eip_price/bgppro)
-     
-* [计费说明](/charge/README)
-* [资源过期回收](/charge/recycle)
+* 购买指南
+     * [计费说明](/charge/README)
+     * [资源过期回收](/charge/recycle)
 * [故障排查](/unet/troubleshooting)
 * FAQ
      * [带宽相关](/unet/faq/bandwidth)
