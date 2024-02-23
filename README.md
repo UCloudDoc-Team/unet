@@ -21,7 +21,6 @@
      * [EIP计费总览](/unet/eip_price/compare)
      * [流量价格](/unet/eip_price/traffic)
      * [带宽价格](/unet/eip_price/bandwidth)
-     * [带宽后付费价格](/unet/eip_price/accuratebandwidth)
      * [共享带宽价格](/unet/eip_price/sharebandwidth)
      * [IP地址价格](/unet/eip_price/ipaddress)
      * [带宽包价格](/unet/eip_price/bandwidthpackage)
