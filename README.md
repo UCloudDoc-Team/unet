@@ -2,7 +2,7 @@
 
 
 * 动态与公告
-     * [新功能发布记录](/unet/notice/New_Feature.md)
+     * [新功能发布记录](/unet/notice/New_Feature)
 * 外网弹性IP
      * [产品简介](/unet/eip/introduction)
      * [操作指南](/unet/eip/guide)
