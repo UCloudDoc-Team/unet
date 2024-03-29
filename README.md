@@ -7,6 +7,13 @@
          * [共享带宽](/unet/introduction/Overview/Shared_Bandwidth)
          * [外网防火墙](/unet/introduction/Overview/Firewall)
      * [线路类型](/unet/introduction/Line_Type)
+     * [产品优势](/unet/introduction/Advantage)
+     * 使用限制
+         * [公网带宽限制](/unet/introduction/Limit/Bandwidth)
+         * [流量计费限制](/unet/introduction/Limit/Traffic_Billing)
+         * [外网防火墙限制](/unet/introduction/Limit/Firewall)
+         * [绑定NAT网关限制](/unet/introduction/Limit/Bind_NAT)
+         * [共享带宽限制](/unet/introduction/Limit/Shared_Bandwidth)
 * 外网弹性IP
      * [产品简介](/unet/eip/introduction)
      * [操作指南](/unet/eip/guide)
