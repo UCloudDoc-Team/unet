@@ -3,6 +3,10 @@
 
 * 动态与公告
      * [新功能发布记录](/unet/notice/New_Feature)
+* 产品简介
+     * 产品概述
+         * [外网弹性IP](/unet/introduction/Overview/EIP)
+         * [带宽包](/unet/introduction/Overview/Bandwidth_Package)
 * 外网弹性IP
      * [产品简介](/unet/eip/introduction)
      * [操作指南](/unet/eip/guide)
