@@ -1,12 +1,12 @@
 # 概览
 
-
-* 动态与公告
-     * [新功能发布记录](/unet/notice/New_Feature)
 * 产品简介
      * 产品概述
          * [外网弹性IP](/unet/introduction/Overview/EIP)
          * [带宽包](/unet/introduction/Overview/Bandwidth_Package)
+         * [共享带宽](/unet/introduction/Overview/Shared_Bandwidth)
+         * [外网防火墙](/unet/introduction/Overview/Firewall)
+     * [线路类型](/unet/introduction/Line_Type)
 * 外网弹性IP
      * [产品简介](/unet/eip/introduction)
      * [操作指南](/unet/eip/guide)
