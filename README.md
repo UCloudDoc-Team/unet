@@ -19,15 +19,12 @@
          * [计费概述](/unet/buy/Rule/introduction)
          * [计费示例](/unet/buy/Rule/Example)
      * 产品价格
-         * [EIP计费总览](/unet/eip_price/compare)
          * [流量价格](/unet/eip_price/traffic)
          * [带宽价格](/unet/eip_price/bandwidth)
          * [共享带宽价格](/unet/eip_price/sharebandwidth)
          * [IP地址价格](/unet/eip_price/ipaddress)
          * [带宽包价格](/unet/eip_price/bandwidthpackage)
-         * [IPv6转换价格](/unet/eip_price/ipv6translation)  
-         * [精品BGP价格](/unet/eip_price/bgppro)
-         * [资源过期回收](/unet/eip_recycle/introduction)
+     * [资源过期回收](/unet/eip_recycle/introduction)
 * 外网弹性IP
      * [产品简介](/unet/eip/introduction)
      * [操作指南](/unet/eip/guide)
