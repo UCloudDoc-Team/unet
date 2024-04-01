@@ -39,8 +39,12 @@
      * 带宽包
          * [申请带宽包](/unet/guide/Bandwidth_Package/Apply)
          * [删除带宽包](/unet/guide/Bandwidth_Package/Delete)
-
-
+     * 外网防火墙
+         * [推荐防火墙](/unet/guide/Firewall/Recommended_Firewall)
+         * [创建防火墙](/unet/guide/Firewall/Create)
+         * [绑定资源管理](/unet/guide/Firewall/Bind)
+         * [复制防火墙](/unet/guide/Firewall/Copy)
+         * [删除防火墙](/unet/guide/Firewall/Delete)
 * [故障排查](/unet/troubleshooting)
 * FAQ
      * [带宽相关](/unet/faq/bandwidth)
