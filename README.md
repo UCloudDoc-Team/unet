@@ -28,9 +28,17 @@
 * 操作指南
      * 外网弹性IP
          * [申请EIP](/unet/guide/EIP/Apply)
-
-
-
+         * [绑定/解绑EIP](/unet/guide/EIP/Bind)
+         * [释放EIP](/unet/guide/EIP/Release)
+         * [调整带宽](/unet/guide/EIP/Adjust_Bandwidth)
+         * [更改计费方式](/unet/guide/EIP/Change_Billingmethod)
+     * 共享带宽
+         * [创建共享带宽](/unet/guide/Shared_Bandwidth/Create)
+         * [删除共享带宽](/unet/guide/Shared_Bandwidth/Delete)
+         * [调整带宽](/unet/guide/Shared_Bandwidth/Adjust_Bandwidth)
+     * 带宽包
+         * [申请带宽包](/unet/guide/Bandwidth_Package/Apply)
+         * [删除带宽包](/unet/guide/Bandwidth_Package/Delete)
 
 
 * [故障排查](/unet/troubleshooting)
