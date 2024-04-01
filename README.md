@@ -14,6 +14,20 @@
          * [外网防火墙限制](/unet/introduction/Limit/Firewall)
          * [绑定NAT网关限制](/unet/introduction/Limit/Bind_NAT)
          * [共享带宽限制](/unet/introduction/Limit/Shared_Bandwidth)
+* 购买指南
+     * 计费规则
+         * [计费概述](/unet/buy/Rule/introduction)
+         * [计费示例](/unet/buy/Rule/Example)
+     * 产品价格
+         * [EIP计费总览](/unet/eip_price/compare)
+         * [流量价格](/unet/eip_price/traffic)
+         * [带宽价格](/unet/eip_price/bandwidth)
+         * [共享带宽价格](/unet/eip_price/sharebandwidth)
+         * [IP地址价格](/unet/eip_price/ipaddress)
+         * [带宽包价格](/unet/eip_price/bandwidthpackage)
+         * [IPv6转换价格](/unet/eip_price/ipv6translation)  
+         * [精品BGP价格](/unet/eip_price/bgppro)
+         * [资源过期回收](/unet/eip_recycle/introduction)
 * 外网弹性IP
      * [产品简介](/unet/eip/introduction)
      * [操作指南](/unet/eip/guide)
@@ -30,18 +44,8 @@
      * [产品简介](/unet/ipv6translation/introduction)
      * [原理架构](/unet/ipv6translation/structure)
      * [操作指南](/unet/ipv6translation/guide)
-* 产品价格
-     * [EIP计费总览](/unet/eip_price/compare)
-     * [流量价格](/unet/eip_price/traffic)
-     * [带宽价格](/unet/eip_price/bandwidth)
-     * [共享带宽价格](/unet/eip_price/sharebandwidth)
-     * [IP地址价格](/unet/eip_price/ipaddress)
-     * [带宽包价格](/unet/eip_price/bandwidthpackage)
-     * [IPv6转换价格](/unet/eip_price/ipv6translation)  
-     * [精品BGP价格](/unet/eip_price/bgppro)
-* 购买指南
-     * [计费说明](/charge/README)
-     * [资源过期回收](/unet/eip_recycle/introduction)
+
+
 * [故障排查](/unet/troubleshooting)
 * FAQ
      * [带宽相关](/unet/faq/bandwidth)
