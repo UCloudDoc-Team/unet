@@ -6,19 +6,19 @@
 ## 绑定EIP
 
 1. 以外网弹性IP列表页入口为例，选择需要绑定资源的EIP，并在操作字段中单击**绑定**。
-![image](/guide/image/3.png)
+![image](/images/3.png)
 2. 在弹出的**绑定资源**窗口中，选择EIP需要绑定的资源类型、具体资源，单击**确定**，即可完成与资源的绑定。
-![image](/guide/image/4.png)
+![image](/images/4.png)
 
 ## 解绑EIP
 
 1. 以外网弹性IP列表页入口为例，选择需要解绑资源的EIP，并在操作字段中单击**解绑**。
-![image](/guide/image/5.png)
+![image](/images/5.png)
 2. 在弹出的**解绑资源**提示框中，单击**解绑**，即可完成与资源的解绑。
-![image](/guide/image/6.png)
+![image](/images/6.png)
 
 ## 批量解绑EIP
 1. 在外网弹性IP列表页可以选择多个EIP，单击**解绑**对已绑定的EIP进行批量解绑。
-![image](/guide/image/7.png)
+![image](/images/7.png)
 2. 在弹出的**解绑资源**提示框中，单击**解绑**，即可批量完成与资源的解绑。
-![image](/guide/image/8.png)
+![image](/images/8.png)
