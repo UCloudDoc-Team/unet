@@ -27,6 +27,10 @@
      * [资源过期回收](/unet/eip_recycle/introduction)
 * 操作指南
      * 外网弹性IP
+         * [申请EIP](/unet/guide/EIP/Apply)
+
+
+
 
 
 * [故障排查](/unet/troubleshooting)
