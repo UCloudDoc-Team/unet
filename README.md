@@ -51,5 +51,4 @@
      * [外网访问与隔离](/unet/faq/access)
      * [防火墙](/unet/faq/firewall)
      * [EIP使用相关](/unet/faq/eip)
-     * [IPv6转换功能](/unet/faq/ipv6translation)
      * [其他](/unet/faq/other)
