@@ -10,11 +10,9 @@
      * [线路类型](/unet/introduction/Line_Type)
      * [产品优势](/unet/introduction/Advantage)
      * 使用限制
-         * [公网带宽限制](/unet/introduction/Limit/Bandwidth)
-         * [流量计费限制](/unet/introduction/Limit/Traffic_Billing)
+         * [带宽限制](/unet/introduction/Limit/Bandwidth)
          * [外网防火墙限制](/unet/introduction/Limit/Firewall)
          * [绑定NAT网关限制](/unet/introduction/Limit/Bind_NAT)
-         * [共享带宽限制](/unet/introduction/Limit/Shared_Bandwidth)
 * 购买指南
      * 计费规则
          * [计费概述](/unet/buy/Rule/introduction)
