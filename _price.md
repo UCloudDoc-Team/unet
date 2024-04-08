@@ -17,8 +17,6 @@ Unet下包含以下收费产品：
 详细的计费说明见[外网弹性IP](https://docs.ucloud.cn/unet/eip/introduction)
 
 
-
-
 ## 产品价格
 <!-- udocs:price -->
 |地域|线路|计费方式|价格|说明|操作|
