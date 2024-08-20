@@ -43,6 +43,8 @@
          * [绑定资源管理](/unet/guide/Firewall/Bind)
          * [复制防火墙](/unet/guide/Firewall/Copy)
          * [删除防火墙](/unet/guide/Firewall/Delete)
+* 实践教程
+     * [迁移自带公网IP地址上云](/unet/practice)
 * [故障排查](/unet/troubleshooting)
 * FAQ
      * [带宽相关](/unet/faq/bandwidth)
