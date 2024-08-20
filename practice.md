@@ -49,7 +49,7 @@
 | :--------- | :----------------------------------------------------------- |
 | **route**  | 输入自带的公网IP地址段。                                     |
 | **origin** | 输入AS号，本示例输入固定值**AS135377**。                     |
-| **descr**  | 输入维护者名称，本示例输入固定值 **UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED** <br> **FLAT/RM 603 6/F** <br> **LAWS COMMERCIAL PLAZA** <br> **788 CHEUNG SHA WAN ROAD, KL,** |
+| **descr**  | 输入维护者名称，本示例输入固定值 <br> **UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED** <br> **FLAT/RM 603 6/F** <br> **LAWS COMMERCIAL PLAZA** <br> **788 CHEUNG SHA WAN ROAD, KL,** |
 
 5. 配置完成后，您可以通过**RADB**查看更新是否成功。
 
