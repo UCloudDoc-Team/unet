@@ -1,6 +1,8 @@
 
 
 * [概览](/unet/README)
+* 动态与公告
+    * [新功能发布记录](/unet/notice/New_Feature)
 * 产品简介
      * 产品概述
          * [外网弹性IP](/unet/introduction/Overview/EIP)
