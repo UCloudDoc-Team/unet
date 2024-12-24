@@ -8,22 +8,26 @@
          * [带宽包](/unet/introduction/Overview/Bandwidth_Package)
          * [共享带宽](/unet/introduction/Overview/Shared_Bandwidth)
          * [外网防火墙](/unet/introduction/Overview/Firewall)
+         * [IP资源池](/unet/introduction/Overview/IPRP)
      * [线路类型](/unet/introduction/Line_Type)
      * [产品优势](/unet/introduction/Advantage)
      * 使用限制
          * [带宽限制](/unet/introduction/Limit/Bandwidth)
          * [外网防火墙限制](/unet/introduction/Limit/Firewall)
          * [绑定NAT网关限制](/unet/introduction/Limit/Bind_NAT)
+         * [IP资源池限制](/unet/introduction/Limit/IPRP)
 * 购买指南
      * 计费规则
          * [计费概述](/unet/buy/Rule/introduction)
          * [计费示例](/unet/buy/Rule/Example)
+         * [IP资源池计费说明](/unet/buy/Rule/IPRP)
      * 产品价格
          * [流量价格](/unet/eip_price/traffic)
          * [带宽价格](/unet/eip_price/bandwidth)
          * [共享带宽价格](/unet/eip_price/sharebandwidth)
          * [IP地址价格](/unet/eip_price/ipaddress)
          * [带宽包价格](/unet/eip_price/bandwidthpackage)
+         * [IP资源池价格](/unet/eip_price/IPRP)
      * [资源过期回收](/unet/eip_recycle/introduction)
 * 操作指南
      * 外网弹性IP
