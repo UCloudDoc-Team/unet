@@ -16,6 +16,7 @@
          * [外网防火墙限制](/unet/introduction/Limit/Firewall)
          * [绑定NAT网关限制](/unet/introduction/Limit/Bind_NAT)
          * [IP资源池限制](/unet/introduction/Limit/IPRP)
+         * [共享带宽限制](/unet/introduction/Limit/Bwshare)
 * 购买指南
      * 计费规则
          * [计费概述](/unet/buy/Rule/introduction)
