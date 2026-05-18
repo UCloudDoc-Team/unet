@@ -67,15 +67,21 @@ Unet下包含以下收费产品：
 华北（北京2）|BGP|流量|0.8元/GB|-|[立即购买](https://console.ucloud.cn/unet/eip/create)|
 华东（上海2）|BGP|流量|0.8元/GB|-|[立即购买](https://console.ucloud.cn/unet/eip/create)|
 华南（广州）|BGP|流量|0.8元/GB|-|[立即购买](https://console.ucloud.cn/unet/eip/create)|
+西南（贵阳）|BGP|流量|0.8元/GB|-|[立即购买](https://console.ucloud.cn/unet/eip/create)|
+美国（丹佛）|国际|流量|0.8元/GB|-|[立即购买](https://console.ucloud.cn/unet/eip/create)|
+巴基斯坦|国际|流量|0.8元/GB|-|[立即购买](https://console.ucloud.cn/unet/eip/create)|
+哈萨克斯坦|国际|流量|0.8元/GB|-|[立即购买](https://console.ucloud.cn/unet/eip/create)|
+墨西哥|国际|流量|0.8元/GB|-|[立即购买](https://console.ucloud.cn/unet/eip/create)|
+俄罗斯（莫斯科）可用区B|国际|流量|0.8元/GB|-|[立即购买](https://console.ucloud.cn/unet/eip/create)|
 香港|国际|流量|0.8元/GB|-|[立即购买](https://console.ucloud.cn/unet/eip/create)|
 美国（洛杉矶）|国际|流量|0.5元/GB|-|[立即购买](https://console.ucloud.cn/unet/eip/create)|
-上海一|BGP|流量|1.2/GB|-|[立即购买](https://console.ucloud.cn/unet/eip/create)|
 新加坡|国际|流量|0.7元/GB|-|[立即购买](https://console.ucloud.cn/unet/eip/create)|
 美国（华盛顿）|国际|流量|0.7元/GB|-|[立即购买](https://console.ucloud.cn/unet/eip/create)|
 德国（法兰克福）|国际|流量|0.7元/GB|-|[立即购买](https://console.ucloud.cn/unet/eip/create)|
 泰国（曼谷）|国际|流量|0.7元/GB|-|[立即购买](https://console.ucloud.cn/unet/eip/create)|
 韩国（首尔）|国际|流量|0.7元/GB|-|[立即购买](https://console.ucloud.cn/unet/eip/create)|
 台湾（台北）|国际|流量|0.7元/GB|-|[立即购买](https://console.ucloud.cn/unet/eip/create)|
+台湾高雄|国际|流量|0.7元/GB|-|[立即购买](https://console.ucloud.cn/unet/eip/create)|
 日本（东京）|国际|流量|0.7元/GB|-|[立即购买](https://console.ucloud.cn/unet/eip/create)|
 阿联酋（迪拜）|国际|流量|0.7元/GB|-|[立即购买](https://console.ucloud.cn/unet/eip/create)|
 印度尼西亚（雅加达）|国际|流量|0.7元/GB|-|[立即购买](https://console.ucloud.cn/unet/eip/create)|
@@ -85,3 +91,4 @@ Unet下包含以下收费产品：
 巴西（圣保罗）|国际|流量|0.7元/GB|-|[立即购买](https://console.ucloud.cn/unet/eip/create)|
 菲律宾（马尼拉）|国际|流量|0.7元/GB|-|[立即购买](https://console.ucloud.cn/unet/eip/create)|
 尼日利亚（拉各斯）|国际|流量|0.7元/GB|-|[立即购买](https://console.ucloud.cn/unet/eip/create)|
+俄罗斯（莫斯科）可用区A|国际|流量|0.7元/GB|-|[立即购买](https://console.ucloud.cn/unet/eip/create)|
