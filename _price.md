@@ -72,7 +72,7 @@ Unet下包含以下收费产品：
 巴基斯坦|国际|流量|0.8元/GB|-|[立即购买](https://console.ucloud.cn/unet/eip/create)|
 哈萨克斯坦|国际|流量|0.8元/GB|-|[立即购买](https://console.ucloud.cn/unet/eip/create)|
 墨西哥|国际|流量|0.8元/GB|-|[立即购买](https://console.ucloud.cn/unet/eip/create)|
-俄罗斯（莫斯科）可用区B|国际|流量|0.8元/GB|-|[立即购买](https://console.ucloud.cn/unet/eip/create)|
+俄罗斯（莫斯科）可用区B|国际|流量|0.7元/GB|-|[立即购买](https://console.ucloud.cn/unet/eip/create)|
 香港|国际|流量|0.8元/GB|-|[立即购买](https://console.ucloud.cn/unet/eip/create)|
 美国（洛杉矶）|国际|流量|0.5元/GB|-|[立即购买](https://console.ucloud.cn/unet/eip/create)|
 新加坡|国际|流量|0.7元/GB|-|[立即购买](https://console.ucloud.cn/unet/eip/create)|
