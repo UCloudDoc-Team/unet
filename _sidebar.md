@@ -24,10 +24,10 @@
          * [计费示例](/unet/buy/Rule/Example)
          * [IP资源池计费说明](/unet/buy/Rule/IPRP)
      * 产品价格
-         * [流量价格](/unet/eip_price/traffic)
-         * [带宽价格](/unet/eip_price/bandwidth)
-         * [共享带宽价格](/unet/eip_price/sharebandwidth)
          * [IP地址价格](/unet/eip_price/ipaddress)
+         * [带宽价格](/unet/eip_price/bandwidth)
+         * [流量价格](/unet/eip_price/traffic)
+         * [共享带宽价格](/unet/eip_price/sharebandwidth)
          * [带宽包价格](/unet/eip_price/bandwidthpackage)
          * [IP资源池价格](/unet/eip_price/IPRP)
      * [资源过期回收](/unet/eip_recycle/introduction)
